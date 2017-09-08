@@ -3,7 +3,7 @@ const { graphqlExpress, graphiqlExpress } = require('apollo-server-express') ;
 const bodyParser = require('body-parser') ;
 const { makeExecutableSchema } = require('graphql-tools');
 
-const ems = require('easy-modularization-scheme')
+const ems = require('apolloems')
 
 const schema = makeExecutableSchema(ems());
 

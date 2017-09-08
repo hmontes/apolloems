@@ -1,5 +1,5 @@
 {
-  "name": "easy-modularization-scheme",
+  "name": "apolloems",
   "version": "1.0.0",
   "description": "An easy way to modularize the scheme",
   "main": "index.js",

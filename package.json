@@ -1,0 +1,15 @@
+{
+  "name": "easy-modularization-scheme",
+  "version": "1.0.0",
+  "description": "An easy way to modularize the scheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "lodash": "^4.17.4"
+  }
+}
